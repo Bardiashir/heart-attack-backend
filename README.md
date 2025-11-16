@@ -33,7 +33,7 @@ This project is a complete backend system for predicting heart attack risk using
 
 > Folder names may differ slightly depending on setup, but the core idea is:
 
-
+```
 backend/
 └── src/
     ├── api.py          # FastAPI app and endpoints
@@ -43,3 +43,4 @@ backend/
        └── heart_model.pkl   # Trained ML model
     ├── data/
        └── heart_disease_uci.csv   # Dataset used for model training
+       ```
